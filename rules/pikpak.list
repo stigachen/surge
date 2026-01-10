@@ -1,0 +1,10 @@
+# NAME: Pikpak
+
+
+DOMAIN-SUFFIX,pikpak.com,Proxy
+DOMAIN-SUFFIX,mypikpak.com,Proxy
+DOMAIN-SUFFIX,pstatp.com,Proxy
+DOMAIN-SUFFIX,bytecdn.cn,Proxy
+DOMAIN-SUFFIX,byteimg.com,Proxy
+DOMAIN-SUFFIX,cloudfront.net,Proxy
+DOMAIN-SUFFIX,amazonaws.com,Proxy
