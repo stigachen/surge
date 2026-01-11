@@ -1,0 +1,12 @@
+# NAME: LLM
+
+# Hugging Face
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,huggingface.space
+DOMAIN-SUFFIX,hf.co
+
+# Apple Intelligence
+DOMAIN,amp-api.apps.apple.com
+DOMAIN,amp-api-edge.apps.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN,apple-relay.apple.com
