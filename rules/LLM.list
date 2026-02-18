@@ -16,3 +16,6 @@ DOMAIN-SUFFIX,guzzoni.apple.com
 
 # Brave
 DOMAIN-SUFFIX,brave.com
+
+# Groq
+DOMAIN-SUFFIX,groq.com
